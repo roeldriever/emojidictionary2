@@ -3,7 +3,7 @@
 //  Emoji Dictionary2
 //
 //  Created by Roel Driever on 28/05/2018.
-//  Copyright © 2018 Roel Driever. All rights reserved.
+//  Copyright © 2018 Roel Driever. All rights reserved. Thanks
 //
 
 import UIKit
