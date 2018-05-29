@@ -12,6 +12,7 @@
 		A41000CB20BC9FF50089BADA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A41000C920BC9FF50089BADA /* Main.storyboard */; };
 		A41000CD20BC9FF50089BADA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A41000CC20BC9FF50089BADA /* Assets.xcassets */; };
 		A41000D020BC9FF50089BADA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A41000CE20BC9FF50089BADA /* LaunchScreen.storyboard */; };
+		A41000D820BDB5290089BADA /* DefinitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A41000D720BDB5290089BADA /* DefinitionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A41000CC20BC9FF50089BADA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A41000CF20BC9FF50089BADA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A41000D120BC9FF50089BADA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A41000D720BDB5290089BADA /* DefinitionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefinitionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				A41000C520BC9FF50089BADA /* AppDelegate.swift */,
 				A41000C720BC9FF50089BADA /* ViewController.swift */,
+				A41000D720BDB5290089BADA /* DefinitionViewController.swift */,
 				A41000C920BC9FF50089BADA /* Main.storyboard */,
 				A41000CC20BC9FF50089BADA /* Assets.xcassets */,
 				A41000CE20BC9FF50089BADA /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A41000C820BC9FF50089BADA /* ViewController.swift in Sources */,
+				A41000D820BDB5290089BADA /* DefinitionViewController.swift in Sources */,
 				A41000C620BC9FF50089BADA /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
